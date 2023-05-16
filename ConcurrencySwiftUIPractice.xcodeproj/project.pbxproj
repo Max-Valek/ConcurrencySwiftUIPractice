@@ -11,6 +11,7 @@
 		9D14E96E2A13F1F200845D88 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D14E96D2A13F1F200845D88 /* ContentView.swift */; };
 		9D14E9702A13F1F200845D88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D14E96F2A13F1F200845D88 /* Assets.xcassets */; };
 		9D14E9732A13F1F200845D88 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D14E9722A13F1F200845D88 /* Preview Assets.xcassets */; };
+		9D14E97A2A13F26E00845D88 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D14E9792A13F26E00845D88 /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9D14E96D2A13F1F200845D88 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9D14E96F2A13F1F200845D88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D14E9722A13F1F200845D88 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9D14E9792A13F26E00845D88 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9D14E96B2A13F1F100845D88 /* ConcurrencySwiftUIPracticeApp.swift */,
 				9D14E96D2A13F1F200845D88 /* ContentView.swift */,
+				9D14E9792A13F26E00845D88 /* DownloadImageAsync.swift */,
 				9D14E96F2A13F1F200845D88 /* Assets.xcassets */,
 				9D14E9712A13F1F200845D88 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D14E96E2A13F1F200845D88 /* ContentView.swift in Sources */,
+				9D14E97A2A13F26E00845D88 /* DownloadImageAsync.swift in Sources */,
 				9D14E96C2A13F1F100845D88 /* ConcurrencySwiftUIPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
